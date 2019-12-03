@@ -1,0 +1,24 @@
+{
+  "name": "@tiposaurio/guido-lib",
+  "version": "0.0.2",
+  "descripcion": "tools angular personalizados para proyectos web.",
+  "author": "Guido L. Calcina Tipo",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tiposaurio/guido-lib"
+  },
+  "keywords": [
+    "angular",
+    "gui",
+    "guido",
+    "tiposaurio"
+  ],
+  "peerDependencies": {
+    "@angular/common": "^7.1.0",
+    "@angular/core": "^7.1.0",
+    "@ng-bootstrap/ng-bootstrap": "^5.1.4",
+    "font-awesome": "^4.7.0",
+    "bootstrap": "^4.0.0"
+  }
+}

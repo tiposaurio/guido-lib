@@ -17,6 +17,14 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    // "paths": {
+    //   "guido-lib": [
+    //     "dist/guido-lib"
+    //   ],
+    //   "guido-lib/*": [
+    //     "dist/guido-lib/*"
+    //   ]
+    // }
   }
 }
